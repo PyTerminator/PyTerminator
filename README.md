@@ -1,5 +1,3 @@
-<img src="mushvigshukurov.png" alt="Mushvig Shukurov" style="width:75px; height:75px; margin: 10px auto;">
-
 #### Shukurov Mushvig - PyTerminator, Pythonist ⚓ 
 <br/>
 
