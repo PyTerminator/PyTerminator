@@ -1,1 +1,2 @@
+<h1 style="margin-bottom:10px; font-size:18px; font-weight:600;">Shukurov Mushvig - PyTerminator, Pythonist ⚓</h1>
 <img src="mushvigshukurov.png" alt="Mushvig Shukurov" style="width:75px; height:75px; margin: 10px auto;">
