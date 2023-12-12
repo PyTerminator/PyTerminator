@@ -13,6 +13,6 @@
 ##### HTML, CSS, SCSS, Jquery, BS4+, Flask, Django, DRF, JWT, Swagger, MySql, MsSql kimi sahələrdə də biliyim var.
 
 #### Mənimlə əlaqə üçün :
-<a href="https://instagram.com/mushvigsh" target="_blank">İnstagram hesabım</a>
+<p>İnstagram hesabım : mushvigsh</p>
 <br>
-<a href="tel:+994503598421">Telefonum (və ya Whatsapp) : (+994) 50-359-84-21</a>
+<p>Telefonum (və ya Whatsapp) : (+994) 50-359-84-21</p>
