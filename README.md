@@ -12,4 +12,4 @@
 
 #### Mənimlə əlaqə üçün :
 <p>İnstagram hesabım : mushvigsh</p> 
-<p>Telefonum (və ya Whatsapp) : (+994) 50-359-84-21</p>
+<p>Telefonum : (+994) 50-359-84-21</p>
